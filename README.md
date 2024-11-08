@@ -36,12 +36,14 @@ apt install python3 python3-pip -y
 ```bash
 pip install -r requirements.txt
 ```
+## INPUT YOUR TOKEN AND PROXY ON
+```token.txt```
+```proxies.txt```
 ### Run the Bot
 - Run:
 ```bash
 python run.py
 ```
-- Press Enter then insert your nodepay token
 # Operating status
 If the following log appears, it means it is running successfully.
 ```bash
