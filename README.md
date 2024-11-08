@@ -23,6 +23,8 @@ git clone https://github.com/qcxint-crypto/nodepay-automate-update.git
 ```bash
 apt install python3 python3-pip -y
 ```
+
+### Running The Bot
 - Install requirements: 
 ```bash
 pip install -r requirements.txt
@@ -30,7 +32,7 @@ pip install -r requirements.txt
 ### Run the Bot
 - Run:
 ```bash
-python3 run.py
+python run.py
 ```
 - Press Enter then insert your nodepay token
 # Operating status
