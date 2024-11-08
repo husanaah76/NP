@@ -3,3 +3,5 @@ aiohttp
 uuid
 cloudscraper
 loguru
+cryptography
+colorama
