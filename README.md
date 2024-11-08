@@ -1,4 +1,7 @@
 # Nodepay Multi Account Automate with Proxies
+Join our Telegram Channel for Update:
+
+[![My Channel 🥰](https://img.shields.io/badge/ANAKMUDABISAKAYA_%7C_Subscribe-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anakmudabisakaya_airdrop)
 ### Tools and components required
 1. Nodepay Account| Register: [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=ReFitLH5Hn9dxzJ)
 2. Proxies Static Residental | [NEW USER GET ONLY $1 FOR 1 GB](https://proxyscrape.com/?ref=zwfmmtc)
@@ -42,3 +45,14 @@ If the following log appears, it means it is running successfully.
 2024-07-30 04:38:18.968 | INFO     | __main__:ping:110 - Ping successful: {'success': True, 'code': 0, 'msg': 'Success', 'data': {'ip_score': 94}}
 2024-07-30 04:38:59.338 | INFO     | __main__:ping:110 - Ping successful: {'success': True, 'code': 0, 'msg': 'Success', 'data': {'ip_score': 98}}
 ```
+
+# FOLLOW OUR SOCIAL MEDIA
+
+[![My Channel 🥰](https://img.shields.io/badge/ANAKMUDABISAKAYA_%7C_Subscribe-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anakmudabisakaya_airdrop)
+
+[![My Channel 🥰](https://img.shields.io/badge/ANAKMUDABISAKAYA_%7C_SUBCRIBE-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anakmudabisakaya)
+
+[![My Channel 🥰](https://img.shields.io/badge/ANAKMUDABISAKAYA_%7C_FOLLOW-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@anakmudabisakaya)
+
+[![My Channel 🥰](https://img.shields.io/badge/ANAKMUDABISAKAYA_%7C_FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anakmudabsakaya)
+
