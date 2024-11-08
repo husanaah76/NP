@@ -252,7 +252,7 @@ async def main():
         tasks = []
         for index, token in enumerate(tokens, start=1):
             for proxy in proxies:
-                logger.info(f"Using proxy: {proxy} with token for account {index}")  # Do not log the actual token
+                logger.info(f"Using proxy: {proxy} with token for account {index}")
                 tasks.append(render_profile_info(proxy, token))
         tasks.append(render_profile_info(None, nodepay_proxy_generate))
 
