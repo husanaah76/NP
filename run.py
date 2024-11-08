@@ -9,6 +9,7 @@ from colorama import init, Fore, Style
 
 # Initialize colorama
 init(autoreset=True)
+used_proxies = set()
 
 def show_warning():
     confirm = input(
@@ -131,6 +132,7 @@ async def call_api(url, data, proxy, token):
     except Exception as e:
         logger.error(f"Error during API call: {e}")
         raise ValueError(f"Failed API call to {url}")
+        return None
 
 async def start_ping(proxy, token):
     while True:
@@ -162,6 +164,7 @@ async def ping(proxy, token):
             RETRIES = 0
             status_connect = CONNECTION_STATES["CONNECTED"]
         else:
+            logger.warning(f"Ping failed for proxy {proxy}. Response: {response}")
             handle_ping_fail(proxy, response)
     except Exception as e:
         logger.error(f"Ping failed via proxy {proxy}: {e}")
