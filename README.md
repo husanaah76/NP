@@ -37,7 +37,9 @@ apt install python3 python3-pip -y
 pip install -r requirements.txt
 ```
 ## INPUT YOUR TOKEN AND PROXY ON
+- Input Token
 ```token.txt```
+- Input Proxies
 ```proxies.txt```
 ### Run the Bot
 - Run:
