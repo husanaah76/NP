@@ -10,6 +10,8 @@ Join our Telegram Channel for Update:
 ## Mandatory Use of Proxies, More is Better!!!
 ## Wajib pakai Proxy, Lebih Banyak Proxy Lebih Baik!!!
 ## Because this is a multipple account script!!!
+- The quality of the proxy determines whether it connects or not. Sometimes a good proxy is also difficult to connect
+- kualitas proxy menetukan connect atau tidaknya. Terkadang Proxy yang bagus juga susah connect
 
 # Installation
 - Open [Nodepay](https://app.nodepay.ai/register?ref=ReFitLH5Hn9dxzJ) and login to dashboard
