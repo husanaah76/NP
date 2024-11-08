@@ -18,7 +18,6 @@ git clone https://github.com/qcxint-crypto/nodepay-automate-update.git
 ```
 ### Component installation
 - Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
-- 
 - For Unix:
 ```bash
 apt install python3 python3-pip -y
