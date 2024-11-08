@@ -9,6 +9,7 @@ Join our Telegram Channel for Update:
 ### ANNOUNCEMENT!!!
 ## Mandatory Use of Proxies, More is Better!!!
 ## Wajib pakai Proxy, Lebih Banyak Proxy Lebih Baik!!!
+## Because this is a multipple account script!!!
 
 # Installation
 - Open [Nodepay](https://app.nodepay.ai/register?ref=ReFitLH5Hn9dxzJ) and login to dashboard
