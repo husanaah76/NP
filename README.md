@@ -6,6 +6,10 @@ Join our Telegram Channel for Update:
 1. Nodepay Account| Register: [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=ReFitLH5Hn9dxzJ)
 2. Proxies Static Residental | [NEW USER GET ONLY $1 FOR 1 GB](https://proxyscrape.com/?ref=zwfmmtc)
 3. VPS (OPTIONAL) and Python3
+### ANNOUNCEMENT!!!
+## Mandatory Use of Proxies, More is Better!!!
+## Wajib pakai Proxy, Lebih Banyak Proxy Lebih Baik!!!
+
 # Installation
 - Open [Nodepay](https://app.nodepay.ai/register?ref=ReFitLH5Hn9dxzJ) and login to dashboard
 - Press F12 or CTRL + SHIFT + I
