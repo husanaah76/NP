@@ -12,15 +12,20 @@
 - Then type ``localStorage.getItem('np_token')`` and press enter
 ![0002](https://github.com/im-hanzou/getgrass_bot/blob/main/nodepaytoken.png)
 - The text that appears is your nodepay token and copy the text
+- CLONE REPOSITORIES
+```bash
+git clone https://github.com/qcxint-crypto/nodepay-automate-update.git
+```
 ### Component installation
 - Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
+- 
 - For Unix:
 ```bash
 apt install python3 python3-pip -y
 ```
 - Install requirements: 
 ```bash
-python3 -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ### Run the Bot
 - Run:
